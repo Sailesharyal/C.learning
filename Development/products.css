@@ -1,0 +1,584 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Itim&display=swap');
+.text1{
+    background-color:ghostwhite;
+    height: 30px;
+    color: black;
+    font-family: "Itim";
+    font-size: 28px;
+    text-align: center;
+}
+.logo{
+    height:40px;
+    top: 10px;
+}
+.products{
+    font-family:'Alata', sans-serif; 
+    font-style: normal;
+    color: black;
+    font-size: 26px;
+    position: absolute;
+    left: 600px;
+}
+
+.productmain{
+    height: 700px;
+    width: 1235px;
+    }
+
+    .rotary{
+        width: 306px;
+        height: 400px;
+        position: absolute;
+        left: 923px;  
+    }
+    
+    .impulsive {
+    width: 306px;
+    height: 400px;
+    position: absolute;
+    left: 468px;
+    }
+    .classic{
+        width: 306px;
+    height: 400px;
+
+    }
+    .buybotton1{
+        background-color: black;
+        height: 35px;
+        width: 150px;
+        text-decoration:none;
+        font-family: 'Alata', sans-serif;
+        font-size:17px;
+        color: white;
+        position: absolute;
+        left:995px;
+        text-align:center;
+        top: 1255px;
+    }
+    
+    .buybotton2{
+            background-color: black;
+            height: 35px;
+            width: 150px;
+            text-decoration:none;
+            font-family: 'Alata', sans-serif;
+            font-size:17px;
+            color: white;
+            position: absolute;
+            left:550px;
+            text-align:center;
+            top: 1255px;
+    }
+    
+    .buybotton3{
+            background-color: black;
+            height: 35px;
+            width: 150px;
+            text-decoration:none;
+            font-family: 'Alata', sans-serif;
+            font-size:17px;
+            color: white;
+            position: absolute;
+            left:60px;
+            text-align:center;
+            top: 1255px;
+    }
+.band{
+    width: 306px;
+        height: 400px;
+        position: absolute;
+        left: 923px;
+}
+
+.hitech{
+    width: 306px;
+    height: 400px;
+    position: absolute;
+    left: 468px;
+}
+
+.gekota{
+    width: 306px;
+    height: 400px;
+}
+.buybotton4{
+    background-color: black;
+    height: 35px;
+    width: 150px;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:17px;
+    color: white;
+    position: absolute;
+    left:995px;
+    text-align:center;
+    top: 1750px;
+}
+
+.buybotton5{
+        background-color: black;
+        height: 35px;
+        width: 150px;
+        text-decoration:none;
+        font-family: 'Alata', sans-serif;
+        font-size:17px;
+        color: white;
+        position: absolute;
+        left:550px;
+        text-align:center;
+        top: 1750px;
+}
+
+.buybotton6{
+        background-color: black;
+        height: 35px;
+        width: 150px;
+        text-decoration:none;
+        font-family: 'Alata', sans-serif;
+        font-size:17px;
+        color: white;
+        position: absolute;
+        left:60px;
+        text-align:center;
+        top: 1750px;
+}
+
+.silver{
+    width: 306px;
+        height: 400px;
+        position: absolute;
+        left: 923px;
+}
+
+.round1{
+    width: 306px;
+    height: 400px;
+    position: absolute;
+    left: 468px;
+}
+
+.turbolo  {
+    width: 306px;
+    height: 400px;
+}
+.buybotton7{
+    background-color: black;
+    height: 35px;
+    width: 150px;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:17px;
+    color: white;
+    position: absolute;
+    left:995px;
+    text-align:center;
+    top: 2228px;
+}
+
+.buybotton8{
+        background-color: black;
+        height: 35px;
+        width: 150px;
+        text-decoration:none;
+        font-family: 'Alata', sans-serif;
+        font-size:17px;
+        color: white;
+        position: absolute;
+        left:550px;
+        text-align:center;
+        top: 2228px;
+}
+
+.buybotton9{
+        background-color: black;
+        height: 35px;
+        width: 150px;
+        text-decoration:none;
+        font-family: 'Alata', sans-serif;
+        font-size:17px;
+        color: white;
+        position: absolute;
+        left:60px;
+        text-align:center;
+        top: 2228px;
+}
+.footer{
+    background-color: black;
+    height: auto;
+    width:100%;
+    color: white;
+}
+
+.instagram{
+height: 50px;
+width: 50px; 
+
+}
+.facebooklogo{
+    height: 50px;
+width: 50px; 
+}
+
+.tiktoklogo{
+    height: 50px;
+    width: 50px;
+}
+
+.location{
+    height: 150px;
+    position: absolute;
+    left:940px;
+    top:2335px
+}
+.map1{
+    position: absolute;
+    left:440px;
+    top:2290px;
+}
+.map{
+    height: 200px;
+    width: 290px;
+    position: absolute;
+    left:440px;
+    top:2315px;
+}
+.line{
+     height: 200px;
+    left:290px;
+    position: absolute;
+    top:2299px;
+}
+.line2{
+     height: 200px;
+    left:850px;
+    position: absolute;
+    top:2299px;
+}
+
+@media  (max-width: 617px){
+ 
+
+        .text1{
+            background-color:ghostwhite;
+             width:auto; 
+            width: 100%;
+            height: 20px;
+            color: black;
+            font-family: "Itim";
+            font-size: 10px;
+            text-align: center
+    }
+
+    .logo{
+        height:15px;
+        top: 25px;
+}
+
+.products{
+    font-family:'Alata', sans-serif; 
+    font-style: normal;
+    color: black;
+    font-size: 16px;
+    position: absolute;
+    left: 300px;
+}
+
+.productmain{
+    height: 350px;
+    width: 100%;
+   
+}
+.rotary{
+    width: 30%;
+    height: 230px;
+    position: absolute;
+    left: 420px; 
+}
+
+.impulsive {
+    width: 30%;
+    height: 230px;
+    position: absolute;
+    left: 215px;
+}
+.classic{
+    width: 32%;
+    height: 230px;
+
+}
+.buybotton1{
+    background-color: black;
+    height: 15px;
+    width: 16%;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:10px;
+    color: white;
+    position: absolute;
+    text-align:center;
+    top: 689px;
+    left:455px;
+}
+
+.buybotton2{
+    background-color: black;
+    height: 15px;
+    width: 16%;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:10px;
+    color: white;
+    position: absolute;
+    text-align:center;
+    top: 689px;
+    left:260px;
+}
+
+
+.buybotton3{
+    background-color: black;
+    height: 15px;
+    width: 16%;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:10px;
+    color: white;
+    position: absolute;
+    text-align:center;
+    top: 689px;
+    left: 30px;
+}  
+.band{
+    width: 30%;
+    height: 230px;
+    position: absolute;
+    left: 420px; 
+}
+
+.hitech{
+    width: 30%;
+    height: 230px;
+    position: absolute;
+    left: 215px;
+}
+
+.gekota{
+    width: 32%;
+    height: 230px;
+}
+
+.buybotton4{
+    background-color: black;
+    height: 15px;
+    width: 16%;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:10px;
+    color: white;
+    position: absolute;
+    text-align:center;
+    top: 1020px;
+    left:455px;
+}
+
+.buybotton5{
+    background-color: black;
+    height: 15px;
+    width: 16%;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:10px;
+    color: white;
+    position: absolute;
+    text-align:center;
+    top: 1020px;
+    left:260px;
+}
+
+
+.buybotton6{
+    background-color: black;
+    height: 15px;
+    width: 16%;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:10px;
+    color: white;
+    position: absolute;
+    text-align:center;
+    top: 1020px;
+    left: 30px;
+}  
+.silver{
+    width: 30%;
+    height: 230px;
+    position: absolute;
+    left: 420px; 
+}
+
+.round1{
+    width: 30%;
+    height: 230px;
+    position: absolute;
+    left: 215px;
+}
+
+.turbolo  {
+    width: 32%;
+    height: 230px;
+}
+
+.buybotton7{
+    background-color: black;
+    height: 15px;
+    width: 16%;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:10px;
+    color: white;
+    position: absolute;
+    text-align:center;
+    top: 1330px;
+    left:455px;
+}
+
+.buybotton8{
+    background-color: black;
+    height: 15px;
+    width: 16%;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:10px;
+    color: white;
+    position: absolute;
+    text-align:center;
+    top: 1330px;
+    left:260px;
+}
+
+
+.buybotton9{
+    background-color: black;
+    height: 15px;
+    width: 16%;
+    text-decoration:none;
+    font-family: 'Alata', sans-serif;
+    font-size:10px;
+    color: white;
+    position: absolute;
+    text-align:center;
+    top: 1330px;
+    left: 30px;
+}  
+
+.footer{
+    background-color: black;
+    
+    width: 98%;
+    color: white;
+}
+
+.instagram{
+height: 25px;
+width: 25px; 
+
+}
+.facebooklogo{
+    height: 25px;
+width: 25px; 
+}
+
+.tiktoklogo{
+    height: 25px;
+    width: 25px;
+}
+
+.location{
+    height:80px;
+    width: 25%;
+    position: absolute;
+    left:410px;
+    top: 1580px;
+}
+.map1{
+    position:absolute;
+    left:180px;
+    top:1540px;
+}
+.map{
+    height: 100px;
+    width: 30%;
+    position: absolute;
+    left:180px;
+    top:1560px;
+}
+.line{
+     height: 130px;
+    left:120px;
+    position: absolute;
+    top:1540px;
+}
+.line2{
+     height: 130px;
+    left:400px;
+    position: absolute;
+    top:1540px;
+}
+.footer{
+    background-color: black;
+    
+    width: 98%;
+    color: white;
+}
+
+.instagram{
+height: 25px;
+width: 25px; 
+
+}
+.facebooklogo{
+    height: 25px;
+width: 25px; 
+}
+
+.tiktoklogo{
+    height: 25px;
+    width: 25px;
+}
+
+.location{
+    height:80px;
+    width: 25%;
+    position: absolute;
+    left:410px;
+    top: 1430px;
+}
+.map1{
+    position:absolute;
+    left:180px;
+    top:1400px;
+}
+.map{
+    height: 100px;
+    width: 30%;
+    position: absolute;
+    left:180px;
+    top:1430px;
+}
+.line{
+     height: 130px;
+    left:120px;
+    position: absolute;
+    top:1410px;
+}
+.line2{
+     height: 130px;
+    left:400px;
+    position: absolute;
+    top:1410px;
+}
+  }
+
+
